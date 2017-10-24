@@ -1,3 +1,4 @@
 *.rle
 *.dll
 *.exe
+demo_full.lua
